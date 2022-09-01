@@ -1,4 +1,4 @@
-### Hi 👋, I'm Harshal Yeole
+ Hi 👋, I'm Harshal Yeole
 ========================
 
 ### Module Lead & Full Stack Developer | React | Node.js |AWS | JavaScript | Redux | React Native | DevOps | ES6 | MongoDB | Typescript | MySQL | Firebase | ORACLE | Docker | Kubernetes | REST api | jest unit testing | SQL/NoSQL DB
